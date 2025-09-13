@@ -1,5 +1,6 @@
 ;1、域名组
 ruleset=➡️ 国内,https://raw.githubusercontent.com/BRSBSC/nodnsleak/refs/heads/main/SourceIP.list
+ruleset=🌍 国外,https://raw.githubusercontent.com/BRSBSC/nodnsleak/refs/heads/main/TargetIP.list
 ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Adobe/Adobe.list
 ;ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Advertising/Advertising.list
 ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AdvertisingLite/AdvertisingLite.list
