@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,flarecloud.net
 DOMAIN-SUFFIX,sillytavern.app
 DOMAIN-SUFFIX,idkey.cc
 DOMAIN-SUFFIX,littleyeti.io
+DOMAIN-KEYWORD,rmcdn
 
 # === 特定后端/接口 ===
 DOMAIN-SUFFIX,dst9.de5.net
@@ -88,3 +89,4 @@ DOMAIN-SUFFIX,kfc-api.sxxe.net
 DOMAIN-SUFFIX,odysseia-index.pages.dev
 DOMAIN-SUFFIX,shaniao.top
 DOMAIN-SUFFIX,wwxw.de
+
