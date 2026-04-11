@@ -89,4 +89,3 @@ DOMAIN-SUFFIX,kfc-api.sxxe.net
 DOMAIN-SUFFIX,odysseia-index.pages.dev
 DOMAIN-SUFFIX,shaniao.top
 DOMAIN-SUFFIX,wwxw.de
-SRC-IP-CIDR,10.10.10.80/32,no-resolve
