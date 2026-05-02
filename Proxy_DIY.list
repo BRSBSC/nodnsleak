@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,1000qm.vip
 DOMAIN-SUFFIX,movie-pilot.org
 
 # === 游戏与其它 (含特定 CDN) ===
+DOMAIN-KEYWORD,paradox
 DOMAIN-SUFFIX,cctld.kg
 DOMAIN-SUFFIX,cdn-live.warthunder.com
 DOMAIN-SUFFIX,dhh.lol
