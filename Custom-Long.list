@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,iyzico.com
 DOMAIN-SUFFIX,war.gov
 DOMAIN-SUFFIX,rstar.cloud
+DOMAIN-SUFFIX,unraid.net
 
 # === 特定后端/接口 ===
 DOMAIN-SUFFIX,dst9.de5.net
