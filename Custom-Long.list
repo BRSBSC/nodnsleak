@@ -108,7 +108,11 @@ DOMAIN-SUFFIX,war.gov
 DOMAIN-SUFFIX,rstar.cloud
 DOMAIN-SUFFIX,edu.kg
 DOMAIN-SUFFIX,dappcdn.com
+
+# === 直播源 ===
 DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,cqshushu.com
+DOMAIN-SUFFIX,taoiptv.com
 
 
 # === 特定后端/接口 ===
