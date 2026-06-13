@@ -109,6 +109,13 @@ DOMAIN-SUFFIX,rstar.cloud
 DOMAIN-SUFFIX,edu.kg
 DOMAIN-SUFFIX,dappcdn.com
 DOMAIN-SUFFIX,sidequestvr.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,horizon.meta.com
+DOMAIN-SUFFIX,graph.facebook.com
 
 # === 直播源 ===
 DOMAIN-SUFFIX,dpdns.org
