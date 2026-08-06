@@ -7,4 +7,4 @@ DOMAIN-KEYWORD,vodafone
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,tensojapan.com
 SRC-IP-CIDR,10.10.10.156/32,no-resolve
-DOMAIN-SUFFIX,co.nz
+DOMAIN-SUFFIX,spark.co.nz
